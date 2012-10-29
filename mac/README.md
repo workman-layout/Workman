@@ -5,7 +5,7 @@ Workman and Workman-P Mac OSX keyboard layout packaged as a keylayout bundle inc
 
 ## Installation
 
- * Download the keyboard layout bundle to the /Library/Keyboard Layouts/ or ~/Library/Keyboard Layouts/ directory.
+ * Download the keyboard layout bundle to the /Library/Keyboard Layouts/ directory.
  * Log out of OS X and log back in.
  * Open System Preferences, click on the Language & Text icon, and in the Input Menu tab enable the Workman and/or Workman-P layout.
  * Make sure that the Show input menu in menu bar box is also checked.
