@@ -1,5 +1,7 @@
-// Workman Keyboard Layout symbols for xkb on X.Org Server 7.x
+// Workman symbols for xkb on XFree86 and X.Org Server 7.x
 // 09-06-2010 OJ Bucao. Public domain.
+// http://workman.ws
+// https://viralintrospection.wordpress.com/2010/09/06/a-different-philosophy-in-designing-keyboard-layouts/
 
 partial default alphanumeric_keys
 xkb_symbols "basic" {
@@ -36,8 +38,8 @@ xkb_symbols "basic" {
     key <BKSL> { [    backslash,          bar,      asciitilde,       asciitilde ] };
 
     key <AC01> { [            a,            A,          aacute,           Aacute ] };
-    key <AC02> { [            s,            S,      dead_grave,       asciitilde ] }; 
-    key <AC03> { [            h,            H,          ssharp,       asciitilde ] }; 
+    key <AC02> { [            s,            S,      dead_grave,       asciitilde ] };
+    key <AC03> { [            h,            H,          ssharp,       asciitilde ] };
     key <AC04> { [            t,            T,      dead_acute, dead_doubleacute ] };
     key <AC05> { [            g,            G,  dead_diaeresis,       asciitilde ] };
     key <AC06> { [            y,            Y,      dead_caron,       asciitilde ] };
@@ -45,7 +47,7 @@ xkb_symbols "basic" {
     key <AC08> { [            e,            E,          eacute,           Eacute ] };
     key <AC09> { [            o,            O,          iacute,           Iacute ] };
     key <AC10> { [            i,            I,          oacute,           Oacute ] };
-    key <AC11> { [   apostrophe,     quotedbl,          otilde,           Otilde ] }; 
+    key <AC11> { [   apostrophe,     quotedbl,          otilde,           Otilde ] };
 
     key <AB01> { [            z,            Z,              ae,               AE ] };
     key <AB02> { [            x,            X, dead_circumflex,       asciitilde ] };
