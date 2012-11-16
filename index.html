@@ -78,6 +78,132 @@
 
 <hr><p><img src="http://viralintrospection.files.wordpress.com/2010/10/workman_layout.png?w=870" alt="Workman layout"></p>
 
+<h2>Layout evaluation</h2>
+
+<p>In the circles of keyboard layouts, the <a href="http://mkweb.bcgsc.ca/carpalx/">Carpalx</a> site is well-known for its evaluation of various keyboard layouts and its trumpeting of the <a href="http://colemak.com/">Colemak</a> layout as a premier contender. In the <a href="http://mkweb.bcgsc.ca/carpalx/?keyboard_layouts">Carpalx study</a>, with various, fancy calculations, it assigned QWERTY a base score of 3 and proceeded to compare other layouts, lower scores are better.</p>
+
+<ul>
+<li>
+<a href="https://en.wikipedia.org/wiki/QWERTY">QWERTY</a>: 3</li>
+<li>
+<a href="https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard">Dvorak</a>: 2.098</li>
+<li>Workman: 1.993</li>
+<li>
+<a href="http://www.michaelcapewell.com/projects/keyboard/index.htm#The_Capewell-Dvorak_Layout">Capewell-Dvorak</a>: 1.985</li>
+<li>
+<a href="http://millikeys.sourceforge.net/asset/">Asset</a>: 1.894</li>
+<li>Klausler: 1.867</li>
+<li>
+<a href="http://colemak.com/">Colemak</a>: 1.842</li>
+<li>
+<a href="http://mkweb.bcgsc.ca/carpalx/?full_optimization">QGMLWY</a>: 1.670</li>
+</ul><p>The Carpalx study goes on to recommend other optimizations, supposedly scoring even better than Colemak. The clearest outcome from the study is that you can use almost any layout other than QWERTY and gain significant efficiencies in your finger travel. Most major operating systems have both Dvorak and Colemak built-in; the Carpalx model almost makes all others seem like a waste of time.</p>
+
+<h3>Flawed Carpalx cap scoring</h3>
+
+<p><img src="http://mkweb.bcgsc.ca/carpalx/images/keyboard-cost.png" alt="Carpalx keyboard cost heatmap"></p>
+
+<p>The Carpalx study takes a similar model to what is used in Workman, by scoring the press of each key, however it doesn't appear to take into account the length of each finger and its curling or stretching preferences. In QWERTY, the <strong>Q and E are scored the same</strong>. When I type, my whole palm moves when I type Q, but not when I type E. Therefore, I believe the adjusted score used in Workman is more appropriate to evaluate layouts.</p>
+
+<h3>Flawed sample inputs</h3>
+
+<p>The scores for the Carpalx study were based on the typing effort of various classic novels, downloaded from <a href="http://www.gutenberg.org/">Project Gutenberg</a>. The training set was Alice in Wonderland, Dracula, Great Expectations, Huckleberry Finn, Moby Dick, Picture of Dorian Grey, Pride and Prejudice, Sense and Sensibility, The Adventures of Sherlock Holmes, The Adventures of Tom Sawyer, The Count of Monte Cristo, Ulysses, Walden (7371647 characters, 3085666 triads, 7967 unique triads).</p>
+
+<p>No surprises here - the Carpalx project clearly got a large sample size for typing analysis.</p>
+
+<p>I prefer to use more modern writing for my inputs. I'm not likely to type many fiction novels in my lifetime. I also think considering the likely audience of various layouts is appropriate.</p>
+
+<h3>Scoring with the Workman model</h3>
+
+<p>Forgoing sophisticated mathematic models, I re-ran a similar Carpalx-style ranking test using the scoring used per key cap in the Workman layout. Every time a letter is used, it adds to a simple counter. In scoring a body of literature with Workman, letter S adds 1 point to the total, D is 2 points, and so on.</p>
+
+<p>When scoring the following sentence, lower is better:</p>
+
+<pre><code>The quick brown fox jumped over the lazy dog.
+</code></pre>
+
+<ul>
+<li>QWERTY: 86</li>
+<li>Asset: 71</li>
+<li>Capewell: 73</li>
+<li>Colemak: 73</li>
+<li>Dvorak: 62</li>
+<li>Klausler: 76</li>
+<li>QGMLWY: 69</li>
+<li>Workman: 68</li>
+</ul><h3>Defining "normal" typing</h3>
+
+<p>The lazy dog sample is perfect for showing all characters of the alphabet, but not necessarily representative of "normal" typing conditions. "Normal" typing is different for everyone. Phones should have a different effort scale than keyboards. Novelists type different content than programmers.</p>
+
+<p>Scoring the <a href="http://drupal.org/drupal-7.17-release-notes">Drupal 7.17</a> source code evaluates a variety of PHP, Javascript, CSS, HTML, license files, and documentation for a <strong>programmer</strong>.</p>
+
+<ul>
+<li>QWERTY: 16,369,994</li>
+<li>Asset: 10,125,959</li>
+<li>Capewell: 11,141,475</li>
+<li>Colemak: 9,894,567</li>
+<li>Dvorak: 12,427,450</li>
+<li>Klausler: 11,379,587</li>
+<li>QGMLWY: 10,518,455</li>
+<li>Workman: 9,756,881</li>
+</ul><p><strong>Winner: Workman</strong></p>
+
+<p>You're not a programmer? <a href="http://www.amazon.com/gp/product/B002MQYOFW/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B002MQYOFW&amp;linkCode=as2&amp;tag=deekayen-20">The Hunger Games by Suzanne Collins</a>:</p>
+
+<ul>
+<li>QWERTY: 941,339</li>
+<li>Asset: 545,135</li>
+<li>Capewell: 503,499</li>
+<li>Colemak: 533,696</li>
+<li>Dvorak: 580,857</li>
+<li>Klausler: 554,396</li>
+<li>QGMLWY: 556,917</li>
+<li>Workman: 489,802</li>
+</ul><p><strong>Winner: Workman</strong></p>
+
+<p>Perhaps you think of yourself as a <strong>technical writer</strong>, in which case the <a href="http://www.amazon.com/gp/product/B003ZK5EE4/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B003ZK5EE4&amp;linkCode=as2&amp;tag=deekayen-20">CISSP 5th ed exam guide by Shon Harris</a> is very technical:</p>
+
+<ul>
+<li>QWERTY: 5,352,819</li>
+<li>Asset: 2,870,112</li>
+<li>Capewell: 2,895,753</li>
+<li>Colemak: 2,815,194</li>
+<li>Dvorak: 3,321,090</li>
+<li>Klausler: 3,194,384</li>
+<li>QGMLWY: 3,072,491</li>
+<li>Workman: 2,696,435</li>
+</ul><p><strong>Winner: Workman</strong></p>
+
+<p><strong>Blogging</strong>? Here is the score for all the bodies of the articles on the front page of <a href="http://slashdot.org">Slashdot</a> on November 15, 2012. Each article is submitted by a unique author:</p>
+
+<ul>
+<li>QWERTY: 33,909</li>
+<li>Asset: 18,816</li>
+<li>Capewell: 19,379</li>
+<li>Colemak: 18,793</li>
+<li>Dvorak: 22,422</li>
+<li>Klausler: 21,352</li>
+<li>QGMLWY: 20,000</li>
+<li>Workman: 17,961</li>
+</ul><p><strong>Winner: Workman</strong></p>
+
+<p><strong>Social media</strong>? A sample from the global feed of <a href="https://alpha.app.net/global/">app.net</a>, 477 words, 2796 characters.</p>
+
+<ul>
+<li>QWERTY: 4,833</li>
+<li>Asset: 2,852</li>
+<li>Capewell: 2,839</li>
+<li>Colemak: 2,792</li>
+<li>Dvorak: 3,270</li>
+<li>Klausler: 3,083</li>
+<li>QGMLWY: 3,032</li>
+<li>Workman: 2,714</li>
+</ul><p><strong>Winner: Workman</strong></p>
+
+<h3>The Bottom Line</h3>
+
+<p>If you're already comfortable with a keyboard layout, like QWERTY, learning a new layout will be frustrating. You'll lose lots of productivity for a relatively short time. <strong>The difference between QWERTY and <em>anything</em> else is huge</strong>. If you're going to go through all the effort, you should go with Workman.</p>
+
 <h2>Layout files</h2>
 
 <p>The proposed layout files were originally spread all over the internet. The github repository will allow contributions to come from all over the Internet and merge back to a central project through pull requests.</p>
