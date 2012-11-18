@@ -1,0 +1,59 @@
+# Workman-P Type 6 (USB) key layout for Solaris console.
+# 09-06-2010 OJ Bucao. Public domain.
+# http://workman.ws/
+# https://viralintrospection.wordpress.com/2010/09/06/a-different-philosophy-in-designing-keyboard-layouts/
+
+key 53	 base ` shift ~ caps ` ctrl ^^ altg fa_tilde
+key 30	 base ! shift 1 caps ! ctrl 1 altg ¡
+key 31	 base @ shift 2 caps @ ctrl ^@ altg º
+key 32	 base # shift 3 caps # ctrl 3 altg ª
+key 33	 base $ shift 4 caps $ ctrl 4 altg ¢
+key 34	 base % shift 5 caps % ctrl 5 altg ~
+key 35	 base ^ shift 6 caps ^ ctrl ^^ altg ~
+key 36	 base & shift 7 caps & ctrl 7 altg ð
+key 37	 base * shift 8 caps * ctrl 8 altg þ
+key 38	 base ( shift 9 caps ( ctrl 9 altg ~
+key 39	 base ) shift 0 caps ) ctrl 0 altg ~
+key 45	 base - shift _ caps - ctrl ^_ altg ~
+key 46	 base = shift + caps = ctrl = altg ×
+
+key 20	 base q shift Q caps Q ctrl ^Q altg ä
+key 26	 base d shift D caps D ctrl ^D altg fa_umlaut
+key 8    base r shift R caps R ctrl ^R altg fa_grave
+key 21   base w shift W caps W ctrl ^W altg å
+key 23	 base b shift B caps B ctrl ^B altg ~
+key 28	 base j shift J caps J ctrl '\n' altg ~
+key 24	 base f shift F caps F ctrl ^F altg ã
+key 12	 base u shift U caps U ctrl ^U altg ú
+key 18	 base p shift P caps P ctrl ^P altg ø
+key 19	 base ; shift : caps ; ctrl ; altg ~
+key 47	 base [ shift { caps [ ctrl ^[ altg «
+key 48	 base ] shift } caps ] ctrl ^] altg »
+key 49	 base '\\' shift | caps '\\' ctrl ^\ altg ~
+
+key 4    base a shift A caps A ctrl ^A altg á
+key 22	 base s shift S caps S ctrl ^S altg ß
+key 7    base h shift H caps H ctrl '\b' altg ~
+key 9 	 base t shift T caps T ctrl ^T altg fa_acute
+key 10	 base g shift G caps G ctrl ^G altg ~
+key 11	 base y shift Y caps Y ctrl ^Y altg ü
+key 13	 base n shift N caps N ctrl ^N altg ñ
+key 14	 base e shift E caps E ctrl ^E altg é
+key 15	 base o shift O caps O ctrl ^O altg ó
+key 51	 base i shift I caps I ctrl '\t' altg í
+key 52	 base '\'' shift '"' caps '\'' ctrl '\'' altg õ
+
+key 29	 base z shift Z caps Z ctrl ^Z altg æ
+key 27	 base x shift X caps X ctrl ^X altg fa_cflex
+key 6    base m shift M caps M ctrl '\r' altg ~
+key 25	 base c shift C caps C ctrl ^C altg ç
+key 5    base v shift V caps V ctrl ^V altg ~
+key 17	 base k shift K caps K ctrl '\v' altg ~
+key 16	 base l shift L caps L ctrl ^L altg ~
+key 54	 base , shift < caps , ctrl , altg fa_cedilla
+key 55	 base . shift > caps . ctrl . altg ~
+key 56	 base / shift ? caps / ctrl ^_ altg ¿
+
+key 57	 all '\b'
+key 100  base - shift _ caps - ctrl ^_ altg ~
+key 44	 base ' ' shift ' ' caps ' ' ctrl ^@ altg ' '

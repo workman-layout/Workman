@@ -1,4 +1,4 @@
-# Workman keymap for NetBSD console.
+# Workman-P keymap for NetBSD console.
 # 09-06-2010 OJ Bucao. Public domain.
 # http://workman.ws/
 # https://viralintrospection.wordpress.com/2010/09/06/a-different-philosophy-in-designing-keyboard-layouts/
@@ -6,16 +6,16 @@
 # modify the mapfile setting in /etc/wscons.conf
 
 keycode  41 =          grave    asciitilde       dead_tilde        asciitilde
-keycode   2 =              1        exclam       exclamdown       onesuperior
-keycode   3 =              2            at        masculine       twosuperior
-keycode   4 =              3    numbersign      ordfeminine     threesuperior
-keycode   5 =              4        dollar             cent          sterling
-keycode   6 =              5       percent       asciitilde               yen
-keycode   7 =              6   asciicircum       asciitilde        asciitilde
-keycode   8 =              7     ampersand              eth               ETH
-keycode   9 =              8      asterisk            thorn             THORN
-keycode  10 =              9     parenleft       asciitilde        asciitilde
-keycode  11 =              0    parenright       asciitilde        asciitilde
+keycode   2 =         exclam             1       exclamdown       onesuperior
+keycode   3 =             at             2       masculine       twosuperior
+keycode   4 =     numbersign             3      ordfeminine     threesuperior
+keycode   5 =         dollar             4             cent          sterling
+keycode   6 =        percent             5       asciitilde               yen
+keycode   7 =    asciicircum             6       asciitilde        asciitilde
+keycode   8 =      ampersand             7              eth               ETH
+keycode   9 =       asterisk             8            thorn             THORN
+keycode  10 =      parenleft             9       asciitilde        asciitilde
+keycode  11 =     parenright             0       asciitilde        asciitilde
 keycode  12 =          minus    underscore       asciitilde        asciitilde
 keycode  13 =          equal          plus         multiply          division
 

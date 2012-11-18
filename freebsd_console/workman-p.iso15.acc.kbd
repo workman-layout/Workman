@@ -1,4 +1,4 @@
-# Workman Layout for FreeBSD console
+# Workman-P Layout for FreeBSD console
 # 09-06-2010 OJ Bucao. Public domain.
 # http://workman.ws/
 # https://viralintrospection.wordpress.com/2010/09/06/a-different-philosophy-in-designing-keyboard-layouts/
@@ -9,16 +9,16 @@
 # ------------------------------------------------------------------
 
   041   '`'    '~'    nop    nop    dtil   '~'    nop    nop     O
-  002   '1'    '!'    nop    nop    '¡'    '¹'    nop    nop     O
-  003   '2'    '@'    nul    nul    'º'    '²'    nul    nul     O
-  004   '3'    '#'    nop    nop    'ª'    '³'    nop    nop     O
-  005   '4'    '$'    nop    nop    '¢'    '£'    nop    nop     O
-  006   '5'    '%'    nop    nop    '¤'    '¥'    nop    nop     O
-  007   '6'    '^'    rs     rs     '~'    '~'    rs     rs      O
-  008   '7'    '&'    nop    nop    'ð'    'Ð'    nop    nop     O
-  009   '8'    '*'    nop    nop    'þ'    'Þ'    nop    nop     O
-  010   '9'    '('    nop    nop    '~'    '~'    nop    nop     O
-  011   '0'    ')'    nop    nop    '~'    '~'    nop    nop     O
+  002   '!'    '1'    nop    nop    '¡'    '¹'    nop    nop     O
+  003   '@'    '2'    nul    nul    'º'    '²'    nul    nul     O
+  004   '#'    '3'    nop    nop    'ª'    '³'    nop    nop     O
+  005   '$'    '4'    nop    nop    '¢'    '£'    nop    nop     O
+  006   '%'    '5'    nop    nop    '¤'    '¥'    nop    nop     O
+  007   '^'    '6'    rs     rs     '~'    '~'    rs     rs      O
+  008   '&'    '7'    nop    nop    'ð'    'Ð'    nop    nop     O
+  009   '*'    '8'    nop    nop    'þ'    'Þ'    nop    nop     O
+  010   '('    '9'    nop    nop    '~'    '~'    nop    nop     O
+  011   ')'    '0'    nop    nop    '~'    '~'    nop    nop     O
   012   '-'    '_'    us     us     '~'    '~'    us     us      O
   013   '='    '+'    nop    nop    '×'    '÷'    nop    nop     O
 

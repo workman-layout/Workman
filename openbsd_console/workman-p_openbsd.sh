@@ -1,5 +1,5 @@
 #!/bin/sh
-# Workman layout script for OpenBSD console.
+# Workman-P layout script for OpenBSD console.
 # 09-06-2010 OJ Bucao. Public domain.
 # http://workman.ws/
 # https://viralintrospection.wordpress.com/2010/09/06/a-different-philosophy-in-designing-keyboard-layouts/
