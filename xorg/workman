@@ -1,11 +1,10 @@
-// Workman symbols for xkb on XFree86 and X.Org server 7.x
-// http://workman.ws
-// http://www.workmanlayout.com
+// Workman Keyboard Layout symbols for xkb on X.Org Server 7.x
+// 09-06-2010 OJ Bucao. http://www.workmanlayout.com
 
 partial default alphanumeric_keys
 xkb_symbols "basic" {
     include "us(basic)"
-    name[Group1]= "Workman";
+    name[Group1]= "English (US, Workman)";
 
     // Alphanumeric section
     key <TLDE> { [        grave,   asciitilde,      dead_tilde,       asciitilde ] };
