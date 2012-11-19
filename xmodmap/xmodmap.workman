@@ -1,5 +1,5 @@
 ! xmodmap for the Workman layout.
-! 9-6-2010 oj bucao. Public domain. 
+! http://workman.ws
 
 keycode  49 =        grave    asciitilde       dead_tilde        asciitilde            
 keycode  10 =            1        exclam       exclamdown       onesuperior            
@@ -16,43 +16,43 @@ keycode  20 =        minus    underscore           endash            emdash
 keycode  21 =        equal          plus         multiply          division            
                                                                                       
 keycode  24 =            q             Q       adiaeresis        Adiaeresis            
-keycode  25 =            d             D            aring             Aring            
-keycode  26 =            r             R           atilde            Atilde            
-keycode  27 =            w             W           oslash          Ooblique            
-keycode  28 =            b             B      dead_ogonek        asciitilde            
+keycode  25 =            d             D   dead_diaeresis        asciitilde            
+keycode  26 =            r             R       dead_grave        asciitilde            
+keycode  27 =            w             W            aring             Aring            
+keycode  28 =            b             B       dead_breve        asciitilde            
 keycode  29 =            j             J          dstroke           Dstroke            
-keycode  30 =            f             F          lstroke           Lstroke            
+keycode  30 =            f             F           atilde            Atilde            
 keycode  31 =            u             U           uacute            Uacute            
-keycode  32 =            p             P       udiaeresis        Udiaeresis            
+keycode  32 =            p             P           oslash          Ooblique            
 keycode  33 =    semicolon         colon       odiaeresis        Odiaeresis            
 keycode  34 =  bracketleft     braceleft    guillemotleft             U2039            
 keycode  35 = bracketright    braceright   guillemotright             U203a            
 keycode  51 =    backslash           bar       asciitilde        asciitilde            
                                                                                       
 keycode  38 =            a             A           aacute            Aacute            
-keycode  39 =            s             S       dead_grave        asciitilde            
-keycode  40 =            h             H           ssharp        asciitilde            
+keycode  39 =            s             S           ssharp        asciitilde            
+keycode  40 =            h             H       dead_caron        asciitilde            
 keycode  41 =            t             T       dead_acute  dead_doubleacute            
-keycode  42 =            g             G   dead_diaeresis        asciitilde            
-keycode  43 =            y             Y       dead_caron        asciitilde            
+keycode  42 =            g             G      dead_ogonek        asciitilde            
+keycode  43 =            y             Y       udiaeresis        Udiaeresis            
 keycode  44 =            n             N           ntilde            Ntilde            
 keycode  45 =            e             E           eacute            Eacute            
-keycode  46 =            o             O           iacute            Iacute            
-keycode  47 =            i             I           oacute            Oacute            
+keycode  46 =            o             O           oacute            Oacute            
+keycode  47 =            i             I           iacute            Iacute            
 keycode  48 =   apostrophe      quotedbl           otilde            Otilde            
                                                                                       
 keycode  52 =            z             Z               ae                AE            
 keycode  53 =            x             X  dead_circumflex        asciitilde            
-keycode  54 =            m             M         ccedilla          Ccedilla            
-keycode  55 =            c             C               oe                OE            
-keycode  56 =            v             V       dead_breve        asciitilde            
+keycode  54 =            m             M      dead_macron        asciitilde            
+keycode  55 =            c             C         ccedilla          Ccedilla            
+keycode  56 =            v             V               oe                OE            
 keycode  57 =            k             K   dead_abovering        asciitilde            
-keycode  58 =            l             L      dead_macron        asciitilde            
+keycode  58 =            l             L          lstroke           Lstroke            
 keycode  59 =        comma          less     dead_cedilla        asciitilde            
 keycode  60 =       period       greater    dead_abovedot        asciitilde            
 keycode  61 =        slash      question     questiondown        asciitilde            
                                                                                       
-keycode  66 =    BackSpace     Escape        BackSpace         BackSpace            
+keycode  66 =    BackSpace        Escape        BackSpace         BackSpace            
 keycode  94 =        minus    underscore           endash            emdash            
 keycode  65 =        space         space            space      nobreakspace            
 keycode 113 =  Mode_switch   Mode_switch                                               
