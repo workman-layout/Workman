@@ -1,7 +1,7 @@
 # $FreeBSD$
 # Based on FreeBSD's colemak.iso15.acc.kbd
 # http://workman.ws
-# http://viralintrospection.wordpress.com/2010/09/06/a-different-philosophy-in-designing-keyboard-layouts/
+# http://www.workmanlayout.com
 
 #                                                         alt
 # scan                       cntrl          alt    alt   cntrl lock

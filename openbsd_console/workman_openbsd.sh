@@ -2,7 +2,7 @@
 # Workman layout script for OpenBSD console.
 # 09-06-2010 OJ Bucao. Public domain.
 # http://workman.ws/
-# https://viralintrospection.wordpress.com/2010/09/06/a-different-philosophy-in-designing-keyboard-layouts/
+# http://www.workmanlayout.com
 
 wsconsctl keyboard.encoding=us  \
     keyboard.map+="keycode  41 =          grave    asciitilde       dead_tilde        asciitilde " \

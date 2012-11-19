@@ -1,6 +1,6 @@
 # workman.kmap for Linux console.
 # http://workman.ws
-# http://viralintrospection.wordpress.com/2010/09/06/a-different-philosophy-in-designing-keyboard-layouts/
+# http://www.workmanlayout.com
 alt_is_meta
 charset "iso-8859-15"  # use a ISO-8859-15 font, e.g.: consolechars -f lat9v-14
 keymaps 0-12

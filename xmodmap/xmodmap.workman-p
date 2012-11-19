@@ -1,5 +1,6 @@
 ! xmodmap for the Workman layout.
-! http://workman.ws 
+! http://workman.ws
+! http://www.workmanlayout.com 
 
 keycode  49 =        grave    asciitilde       dead_tilde        asciitilde            
 keycode  10 =       exclam             1       exclamdown       onesuperior            

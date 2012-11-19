@@ -1,7 +1,7 @@
 Workman keyboard layouts
 ========================
 
-Workman keyboard layout originally proposed by OJ Bucao at http://viralintrospection.wordpress.com/2010/09/06/a-different-philosophy-in-designing-keyboard-layouts/.
+Workman keyboard layout originally proposed by OJ Bucao at http://www.workmanlayout.com.
 
 When learning cold-turkey, trying printing the included keyboard image as a desk reference.
 

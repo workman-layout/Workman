@@ -1,6 +1,6 @@
 // Workman symbols for xkb on XFree86 and X.Org server 7.x
 // http://workman.ws
-// https://viralintrospection.wordpress.com/2010/09/06/a-different-philosophy-in-designing-keyboard-layouts/
+// http://www.workmanlayout.com
 
 partial default alphanumeric_keys
 xkb_symbols "basic" {
