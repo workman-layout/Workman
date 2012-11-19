@@ -82,6 +82,7 @@ xkb_symbols "workman-intl" {
     key <AB05> { [     v,          V,             v,                V ] };
     key <AB06> { [     k,          K,            oe,               OE ] };
     key <AB07> { [     l,          L,        oslash,         Ooblique ] };
+    // End alphanumeric section
 
     key <CAPS> { [ BackSpace, Escape,     BackSpace,        BackSpace ] };
 
