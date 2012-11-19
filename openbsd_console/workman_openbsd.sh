@@ -20,35 +20,35 @@ wsconsctl keyboard.encoding=us  \
     keyboard.map+="keycode  13 =          equal          plus         multiply          division " \
                                                                                                    \
     keyboard.map+="keycode  16 =              q             Q       adiaeresis        Adiaeresis " \
-    keyboard.map+="keycode  17 =              d             D            aring             Aring " \
-    keyboard.map+="keycode  18 =              r             R           atilde            Atilde " \
-    keyboard.map+="keycode  19 =              w             W           oslash          Ooblique " \
+    keyboard.map+="keycode  17 =              d             D   dead_diaeresis        asciitilde " \
+    keyboard.map+="keycode  18 =              r             R       dead_grave        asciitilde " \
+    keyboard.map+="keycode  19 =              w             W            aring             Aring " \
     keyboard.map+="keycode  20 =              b             B       asciitilde        asciitilde " \
     keyboard.map+="keycode  21 =              j             J       asciitilde        asciitilde " \
-    keyboard.map+="keycode  22 =              f             F       asciitilde        asciitilde " \
+    keyboard.map+="keycode  22 =              f             F           atilde            Atilde " \
     keyboard.map+="keycode  23 =              u             U           uacute            Uacute " \
-    keyboard.map+="keycode  24 =              p             P       udiaeresis        Udiaeresis " \
+    keyboard.map+="keycode  24 =              p             P           oslash          Ooblique " \
     keyboard.map+="keycode  25 =      semicolon         colon       odiaeresis        Odiaeresis " \
     keyboard.map+="keycode  26 =    bracketleft     braceleft    guillemotleft        asciitilde " \
     keyboard.map+="keycode  27 =   bracketright    braceright   guillemotright        asciitilde " \
     keyboard.map+="keycode  43 =      backslash           bar       asciitilde        asciitilde " \
                                                                                                    \
     keyboard.map+="keycode  30 =              a             A           aacute            Aacute " \
-    keyboard.map+="keycode  31 =              s             S       dead_grave        asciitilde " \
-    keyboard.map+="keycode  32 =              h             H           ssharp        asciitilde " \
+    keyboard.map+="keycode  31 =              s             S           ssharp        asciitilde " \
+    keyboard.map+="keycode  32 =              h             H       asciitilde        asciitilde " \
     keyboard.map+="keycode  33 =              t             T       dead_acute        asciitilde " \
-    keyboard.map+="keycode  34 =              g             G   dead_diaeresis        asciitilde " \
-    keyboard.map+="keycode  35 =              y             Y       asciitilde        asciitilde " \
+    keyboard.map+="keycode  34 =              g             G       asciitilde        asciitilde " \
+    keyboard.map+="keycode  35 =              y             Y       udiaeresis        Udiaeresis " \
     keyboard.map+="keycode  36 =              n             N           ntilde            Ntilde " \
     keyboard.map+="keycode  37 =              e             E           eacute            Eacute " \
-    keyboard.map+="keycode  38 =              o             O           iacute            Iacute " \
-    keyboard.map+="keycode  39 =              i             I           oacute            Oacute " \
+    keyboard.map+="keycode  38 =              o             O           oacute            Oacute " \
+    keyboard.map+="keycode  39 =              i             I           iacute            Iacute " \
     keyboard.map+="keycode  40 =     apostrophe      quotedbl           otilde            Otilde " \
                                                                                                    \
     keyboard.map+="keycode  44 =              z             Z               ae                AE " \
     keyboard.map+="keycode  45 =              x             X  dead_circumflex        asciitilde " \
-    keyboard.map+="keycode  46 =              m             M         ccedilla          Ccedilla " \
-    keyboard.map+="keycode  47 =              c             C       asciitilde        asciitilde " \
+    keyboard.map+="keycode  46 =              m             M       asciitilde        asciitilde " \
+    keyboard.map+="keycode  47 =              c             C         ccedilla          Ccedilla " \
     keyboard.map+="keycode  48 =              v             V       asciitilde        asciitilde " \
     keyboard.map+="keycode  49 =              k             K       asciitilde        asciitilde " \
     keyboard.map+="keycode  50 =              l             L       asciitilde        asciitilde " \
