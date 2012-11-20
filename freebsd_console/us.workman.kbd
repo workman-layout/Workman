@@ -1,7 +1,5 @@
 # $FreeBSD$
-# Based on FreeBSD's us.iso.kbd
-# http://workman.ws
-# http://www.workmanlayout.com
+# 09-06-2010 OJ Bucao. http://www.workmanlayout.com
 #                                                         alt
 # scan                       cntrl          alt    alt   cntrl lock
 # code  base   shift  cntrl  shift  alt    shift  cntrl  shift state
