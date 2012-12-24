@@ -3,6 +3,8 @@ Workman keyboard layout for MacOS
 
 Workman and Workman-P Mac OSX keyboard layout packaged as a keylayout bundle includes alternate icons, similar in style to the system icons for other layouts like Dvorak or Colemak.
 
+Workman-IO is the same as Workman, but with the I and O letters swapped. It was proposed by vjustin and has not been endorsed by OJ.
+
 ## Installation
 
  * Copy to a Keyboard Layouts directory:
