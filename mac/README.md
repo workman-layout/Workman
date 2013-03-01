@@ -27,7 +27,7 @@ Special symbols (!, @, #, ...) are main characters of the top row so you need to
 ![Workman Programmer](screenshots/workman-P/workman-P.png)
 
 * Workman Programmer - **SHIFT ⇧**
-![Workman Programmer shift](screenshots/workman-P/workman-P_shift.png)
+![Workman Programmer shift](screenshots/workman-P/workman-P_SHIFT.png)
 
 ### IO
 Location of *I* and *O* keys are swapped (This is not officially approved.)
