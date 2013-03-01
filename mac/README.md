@@ -32,7 +32,7 @@ Special symbols (!, @, #, ...) are main characters of the top row so you need to
 ### IO
 Location of *I* and *O* keys are swapped (This is not officially approved.)
 
-* Workmao IO
+* Workman IO
 ![Workman IO](screenshots/workman-IO/workman-IO.png)
 
 ### Workman Extended
@@ -84,4 +84,4 @@ And if your keyboard has a numeric pad, holding Option will change it to:
 
 ![Numeric Pad](screenshots/workman-dead/option_hexadecimal.png)
 
-Also note that a virtual numeric pad appears under your right haod.
+Also note that a virtual numeric pad appears under your right hand.
