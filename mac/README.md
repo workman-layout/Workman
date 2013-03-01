@@ -76,7 +76,7 @@ The above layout is based on [Arensito layout](http://www.pvv.org/~hakonhal/main
 
 ![Dead State layout](screenshots/workman-dead/dead_state.png)
 
-In dead state, if you press ⌥ **Option** (*Alt*), you'll get these handy characters:
+In dead state, if you press ⌥ **Option** ( *Alt* ), you'll get these handy characters:
 
 ![Dead State + Option](screenshots/workman-dead/dead_state_option.png)
 
