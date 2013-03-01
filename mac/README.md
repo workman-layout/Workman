@@ -22,18 +22,39 @@ There are variations to the Workman layout:
 ### Programmer
 Special symbols (!, @, #, ...) are main characters of the top row so you need to hold
   the **SHIFT** key to input the numbers.
+
+* Workman Programmer
+![Workman Programmer](screenshots/workman-P/workman-P.png)
+
+* Workman Programmer - **SHIFT ⇧**
+![Workman Programmer shift](screenshots/workman-P/workman-P_shift.png)
+
 ### IO
 Location of *I* and *O* keys are swapped (This is not officially approved.)
+
+* Workmao IO
+![Workman IO](screenshots/workman-IO/workman-IO.png)
+
+### Workman Extended
+
+Adds accented letters and more internationalization.
+
+* Workman Extended - **OPTION ⌥**
+![Workman Extended](screenshots/workman-Extended/workman-ex-alt.png)
+
+* Workman Extended - **SHIFT+OPTION  (⇧+⌥)**
+![Workman Extended](screenshots/workman-Extended/workman-ex-alt-shift.png)
+
 ### Workman Dead (for programmers)
 The idea of using [*'dead' keys*](http://goo.gl/SURIC) is based
-on " *pressing 2 easy keys is better than pressing 1 hard key* ".
+on assumption that *pressing 2 easy keys is better than pressing 1 hard key*.
 So to make it easier to type (programming) characters/symbols, we're going to
 press an easily reachable key (which will **NOT** output any character), release it and then press another easily reachable key to produce, say, **@** character.
 
 In this layout the COMMA key is a *dead* key, pressing it will cause keyboard enter a state in which a single stroke of other keys will output a different character than normal state. Afer that single stroke, the keyboard returns to its normal state.
 
-For example, you'd press __COMMA__ to enter the special state. Now if you stroke the *A* key the
-output will be a *forward slash /*. Refer to following images for more info.
+For example, you'd press __COMMA__ to enter the special state. Now if you strike the *A* key the
+output will be a *forward slash "/"*. To see how to create other characters, refer to following images for more info.
 
 To produce the *COMMA* character itself, just hit *SPACE* after entering 'dead' state.
 
@@ -42,23 +63,25 @@ hexadecimal values.
 
 * Main Workman layout
 
-![Main layout](screenshots/main_layout.png)
+![Main layout](screenshots/workman-dead/main_layout.png)
 
 * Dead State layout
 
 This might also help you memorize it faster, the **0** and **1** are on the home keys:
 
-![dead state layout](screenshots/dead_state_layout.png)
+![dead state layout](screenshots/workman-dead/dead_state_layout.png)
 
 The above layout is based on [Arensito layout](http://www.pvv.org/~hakonhal/main.cgi/keyboard) and
 [Programmer Dvorak](http://www.kaufmann.no/roland/dvorak/).
 
-![Dead State layout](screenshots/dead_state.png)
+![Dead State layout](screenshots/workman-dead/dead_state.png)
 
 In dead state, if you press ⌥ **Option** (*Alt*), you'll get these handy characters:
 
-![Dead State + Option](screenshots/dead_state_option.png)
+![Dead State + Option](screenshots/workman-dead/dead_state_option.png)
 
 And if your keyboard has a numeric pad, holding Option will change it to:
 
-![Numeric Pad](screenshots/option_hexadecimal.png)
+![Numeric Pad](screenshots/workman-dead/option_hexadecimal.png)
+
+Also note that a virtual numeric pad appears under your right haod.
