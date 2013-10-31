@@ -55,3 +55,58 @@ xkb_symbols "workman-p" {
 
     include "level3(ralt_switch)"
 };
+
+partial alphanumeric_keys
+xkb_symbols "workman-p-intl" {
+
+    name[Group1]= "English (Workman-P, international with dead keys)";
+
+    include "us(intl)"
+
+    // Alphanumeric section
+    key <AE01> {  [        exclam,  1   ] };
+    key <AE02> {  [            at,  2   ] };
+    key <AE03> {  [    numbersign,  3   ] };
+    key <AE04> {  [        dollar,  4   ] };
+    key <AE05> {  [       percent,  5   ] };
+    key <AE06> {  [   asciicircum,  6   ] };
+    key <AE07> {  [     ampersand,  7   ] };
+    key <AE08> {  [      asterisk,  8   ] };
+    key <AE09> {  [     parenleft,  9   ] };
+    key <AE10> {  [    parenright,  0   ] };
+
+    key <AD01> { [     q,          Q,    adiaeresis,       Adiaeresis ] };
+    key <AD02> { [     d,          D,           eth,              ETH ] };
+    key <AD03> { [     r,          R,    registered,       registered ] };
+    key <AD04> { [     w,          W,         aring,            Aring ] };
+    key <AD05> { [     b,          B,             b,                B ] };
+    key <AD06> { [     j,          J,             j,                J ] };
+    key <AD07> { [     f,          F,             f,                F ] };
+    key <AD08> { [     u,          U,        uacute,           Uacute ] };
+    key <AD09> { [     p,          P,    odiaeresis,       Odiaeresis ] };
+    key <AD10> { [ semicolon,  colon,     paragraph,           degree ] };
+
+    key <AC01> { [     a,          A,        aacute,           Aacute ] };
+    key <AC02> { [     s,          S,        ssharp,          section ] };
+    key <AC03> { [     h,          H,             h,                H ] };
+    key <AC04> { [     t,          T,         thorn,            THORN ] };
+    key <AC05> { [     g,          G,             g,                G ] };
+    key <AC06> { [     y,          Y,    udiaeresis,       Udiaeresis ] };
+    key <AC07> { [     n,          N,        ntilde,           Ntilde ] };
+    key <AC08> { [     e,          E,        eacute,           Eacute ] };
+    key <AC09> { [     o,          O,        oacute,           Oacute ] };
+    key <AC10> { [     i,          I,        iacute,           Iacute ] };
+
+    key <AB01> { [     z,          Z,            ae,               AE ] };
+    key <AB02> { [     x,          X,             x,                X ] };
+    key <AB03> { [     m,          M,            mu,               mu ] };
+    key <AB04> { [     c,          C,     copyright,             cent ] };
+    key <AB05> { [     v,          V,             v,                V ] };
+    key <AB06> { [     k,          K,            oe,               OE ] };
+    key <AB07> { [     l,          L,        oslash,         Ooblique ] };
+    // End alphanumeric section
+
+    key <CAPS> { [ BackSpace, Escape,     BackSpace,        BackSpace ] };
+
+    include "level3(ralt_switch)"
+};
