@@ -2,7 +2,7 @@
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Last edited by Ukelele version 2.2.7 on 2014-02-10 at 19:53 (EST)-->
 <!--Created by Ukelele version 2.2.3 on 2012-11-14 at 22:15 (EST)-->
-<keyboard group="0" id="14844" name="Workman-P Qwerty-CMD" maxout="1">
+<keyboard group="0" id="14844" name="Workman-P - Qwerty ⌘" maxout="1">
     <layouts>
         <layout first="0" last="17" modifiers="f4" mapSet="16c"/>
         <layout first="18" last="18" modifiers="f4" mapSet="994"/>
