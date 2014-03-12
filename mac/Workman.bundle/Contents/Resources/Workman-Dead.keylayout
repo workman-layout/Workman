@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 2.2.4 on 2013-02-28 at 02:23 (EST)-->
+<!--Last edited by Ukelele version 2.2.7 on 2014-03-07 at 17:43 (EST)-->
 <!--﻿'Dead' Workman Layout for programmers
 By: Hamid Ghadyani https://github.com/spamwax/workman
 Feb 2013
@@ -18,7 +18,13 @@ The comma key ',' acts as a 'dead' key to change the state of the keyboard
 in which main three rows temporarily become "programming" characters.
 (see the above layout)
 Pressing any key returns the keyboard to its original state.
-OPTION produces additional programming characters:==!= <=>=+====-->
+OPTION produces additional programming characters:
+==
+!=
+<=
+>=
++=
+===-->
 <!--Created by Ukelele version 2.2.4 on 2013-02-20 at 00:44 (EST)-->
 <keyboard group="126" id="-16320" name="Workman-Dead" maxout="3">
     <layouts>
@@ -111,7 +117,15 @@ OPTION produces additional programming characters:==!= <=>=+====-->
             <key code="41" action="; 1"/>
             <key code="42" output="\"/>
             <key code="43" action=", 4"/>
-            <!--﻿Pressing the COMMA key causes keyboard to enterinto a state where 'programming' symbols/characters aremore accessible:           ~  `            #  ^   %  &  [   ]  @    |  _   {   }  $   =  /  -  0  *    \  1   (   )  ?   6  7  8  9  +    !  2  3  4  5-->
+            <!--﻿Pressing the COMMA key causes keyboard to enter
+into a state where 'programming' symbols/characters are
+more accessible:
+
+           ~  `            #  ^
+   %  &  [   ]  @    |  _   {   }  $
+   =  /  -  0  *    \  1   (   )  ?
+   6  7  8  9  +    !  2  3  4  5
+-->
             <key code="44" action="/ 1"/>
             <key code="45" action="50"/>
             <key code="46" action="m 1"/>
@@ -1309,7 +1323,7 @@ OPTION produces additional programming characters:==!= <=>=+====-->
         </action>
         <action id="5">
             <when state="none" output=" "/>
-            <when state="programmer" output=","/>
+            <when state="programmer" output=", "/>
             <when state="s1" output="´"/>
             <when state="s2" output="`"/>
         </action>
@@ -1408,7 +1422,7 @@ OPTION produces additional programming characters:==!= <=>=+====-->
         </action>
         <action id="51">
             <when state="none" output=" "/>
-            <when state="programmer" output=","/>
+            <when state="programmer" output=", "/>
             <when state="s1" output="´"/>
             <when state="s2" output="`"/>
         </action>
