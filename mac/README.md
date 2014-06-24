@@ -51,7 +51,7 @@ on assumption that *pressing 2 easy keys is better than pressing 1 hard key*.
 So to make it easier to type (programming) characters/symbols, we're going to
 press an easily reachable key (which will **NOT** output any character), release it and then press another easily reachable key to produce, say, **@** character.
 
-In this layout the COMMA key is a *dead* key, pressing it will cause keyboard enter a state in which a single stroke of other keys will output a different character than normal state. Afer that single stroke, the keyboard returns to its normal state.
+In this layout the COMMA key is a *dead* key, pressing it will cause keyboard enter a state in which a single stroke of other keys will output a different character than normal state. After that single stroke, the keyboard returns to its normal state.
 
 For example, you'd press __COMMA__ to enter the special state. Now if you strike the *A* key the
 output will be a *forward slash "/"*. To see how to create other characters, refer to following images for more info.
