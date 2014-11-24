@@ -3,7 +3,7 @@ Workman keyboard layouts
 
 Workman keyboard layout originally proposed by OJ Bucao at http://www.workmanlayout.com.
 
-When learning cold-turkey, trying printing the included keyboard image as a desk reference.
+When learning cold-turkey, try printing the included keyboard image as a desk reference.
 
 ## Important design notes
 
