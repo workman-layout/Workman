@@ -1,0 +1,8 @@
+title: Workman
+description: The Layout Designed with Hands in Mind
+google_analytics: UA-19336115-8
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
