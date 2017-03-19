@@ -1,8 +1,5 @@
-title: Workman
+title: Workman Keyboard Layout
 description: The Layout Designed with Hands in Mind
-google_analytics: UA-19336115-8
+google_analytics: UA-93897390-1
 show_downloads: true
 theme: jekyll-theme-slate
-
-gems:
-  - jekyll-mentions
