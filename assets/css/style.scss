@@ -10,3 +10,8 @@ body {
 section img {
     max-width: 100%;
 }
+
+#main_content,
+#header_wrap > header.inner {
+    max-width: 780px;
+}
