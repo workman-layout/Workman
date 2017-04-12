@@ -12,6 +12,7 @@ section img {
 }
 
 #main_content,
-#header_wrap > header.inner {
+#header_wrap > header.inner,
+#footer_wrap > footer.inner {
     max-width: 780px;
 }
