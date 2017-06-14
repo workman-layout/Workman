@@ -471,7 +471,7 @@ Sure go ahead! Feel free to use it if you would like. Below is a
 link to the implementation/installation files courtesy of
 David Norman (deekayen).
 
-[Download the Workman Layout](https://github.com/kdeloach/workman/zipball/gh-pages)
+[Download the Workman Layout](https://github.com/kdeloach/workman/zipball/master)
 
 **IMPORTANT:** The Workman Keyboard Layout is only a partial
 solution. Even the best keyboard layout could not completely
