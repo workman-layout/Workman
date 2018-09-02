@@ -43,6 +43,13 @@
 		<key>TISIntendedLanguage</key>
 		<string>en-US</string>
 	</dict>
+	<key>KLInfo_Workman-P - Qwerty ⌘</key>
+	<dict>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.workman.workman-p-qwerty-cmd</string>
+		<key>TISIntendedLanguage</key>
+		<string>en-US</string>
+	</dict>
 	<key>KLInfo_Workman-Dead</key>
 	<dict>
 		<key>TISInputSourceID</key>
