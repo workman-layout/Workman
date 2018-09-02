@@ -1,5 +1,5 @@
-<a href="//github.com/kdeloach/workman/raw/gh-pages/images/workman_layout.png">
-<img src="//github.com/kdeloach/workman/raw/gh-pages/images/workman_layout.png" alt="" /></a>
+<a href="//github.com/workman-layout/Workman/raw/gh-pages/images/workman_layout.png">
+<img src="//github.com/workman-layout/Workman/raw/gh-pages/images/workman_layout.png" alt="" /></a>
 
 # The Workman Keyboard Layout Philosophy
 
@@ -55,8 +55,8 @@ it’s the result of the awkwardness in switching to a different layout.
 So I kept on and while doing so, I  tried to analyze how my hands were
 moving and then the problem became clear to me.
 
-<a href="//github.com/kdeloach/workman/raw/gh-pages/images/colemak_layout_21.png">
-<img src="//github.com/kdeloach/workman/raw/gh-pages/images/colemak_layout_21.png" alt="" /></a>
+<a href="//github.com/workman-layout/Workman/raw/gh-pages/images/colemak_layout_21.png">
+<img src="//github.com/workman-layout/Workman/raw/gh-pages/images/colemak_layout_21.png" alt="" /></a>
 <br />*The Colemak keyboard layout*
 
 ## The Problem with Colemak
@@ -161,15 +161,15 @@ scale takes into consideration the position of the keys, the strength of
 and length of the fingers and the staggered nature of the keyboard.
 
 
-<a href="//github.com/kdeloach/workman/raw/gh-pages/images/keyboard_graded1.png">
-<img src="//github.com/kdeloach/workman/raw/gh-pages/images/keyboard_graded1.png" alt="" /></a>
+<a href="//github.com/workman-layout/Workman/raw/gh-pages/images/keyboard_graded1.png">
+<img src="//github.com/workman-layout/Workman/raw/gh-pages/images/keyboard_graded1.png" alt="" /></a>
 <br />*Keys graded based on strain/difficulty (Standard Keyboard)*
 
 Below is what it would be on an “matrix style” keyboard also
 known as “grid” keyboards.
 
-<a href="//github.com/kdeloach/workman/raw/gh-pages/images/keyboard_graded_grid.png">
-<img src="//github.com/kdeloach/workman/raw/gh-pages/images/keyboard_graded_grid.png" alt="" /></a>
+<a href="//github.com/workman-layout/Workman/raw/gh-pages/images/keyboard_graded_grid.png">
+<img src="//github.com/workman-layout/Workman/raw/gh-pages/images/keyboard_graded_grid.png" alt="" /></a>
 <br />*Keys graded based on strain/difficulty (matrix style Keyboard)*
 
 ## Introducing the Workman Keyboard Layout
@@ -178,16 +178,16 @@ I call it the Workman Keyboard Layout in honor of all who type on
 keyboards for a living. And considering that today is Labor Day, I think
 it’s perfectly fitting.
 
-<a href="//github.com/kdeloach/workman/raw/gh-pages/images/workman_layout.png">
-<img src="//github.com/kdeloach/workman/raw/gh-pages/images/workman_layout.png" alt="" /></a>
+<a href="//github.com/workman-layout/Workman/raw/gh-pages/images/workman_layout.png">
+<img src="//github.com/workman-layout/Workman/raw/gh-pages/images/workman_layout.png" alt="" /></a>
 <br />*The Workman Keyboard Layout*
 
 In Workman-P, the top-row numbers and symbols have
 been switched as well as the brace and brackets. It is great for
 programmers as well as system administrators.
 
-<a href="//github.com/kdeloach/workman/raw/gh-pages/images/workman_p.png">
-<img src="//github.com/kdeloach/workman/raw/gh-pages/images/workman_p.png" alt="" /></a>
+<a href="//github.com/workman-layout/Workman/raw/gh-pages/images/workman_p.png">
+<img src="//github.com/workman-layout/Workman/raw/gh-pages/images/workman_p.png" alt="" /></a>
 <br />*Workman for Programmers*
 
 ## Pros and Cons
@@ -222,8 +222,8 @@ On Workman, the most often used keys are evenly and pleasantly distributed
 inside the natural range of motion of the fingers. It’s even better
 on a matrix style keyboard.
 
-<a href="//github.com/kdeloach/workman/raw/gh-pages/images/usage-viz-grid2.png">
-<img src="//github.com/kdeloach/workman/raw/gh-pages/images/usage-viz-grid2.png" alt="" /></a>
+<a href="//github.com/workman-layout/Workman/raw/gh-pages/images/usage-viz-grid2.png">
+<img src="//github.com/workman-layout/Workman/raw/gh-pages/images/usage-viz-grid2.png" alt="" /></a>
 
 ### % Usage of the Two Middle Columns
 
@@ -249,8 +249,8 @@ Below are some tests using popular books taken from Project Gutenberg:
 
 ### Don Quixote (English)
 
-<a href="//github.com/kdeloach/workman/raw/gh-pages/images/don-quixote.png">
-<img src="//github.com/kdeloach/workman/raw/gh-pages/images/don-quixote.png" alt="" /></a>
+<a href="//github.com/workman-layout/Workman/raw/gh-pages/images/don-quixote.png">
+<img src="//github.com/workman-layout/Workman/raw/gh-pages/images/don-quixote.png" alt="" /></a>
 
 #### Distance
 
@@ -425,32 +425,32 @@ sideways 154,975 times less than on Colemak.** *Dvorak is at
 308,533 (13%) and QWERTY is at 512,568 (22%).*
 
 ### Adventures of Huckleberry Finn
-<a href="//github.com/kdeloach/workman/raw/gh-pages/images/huck-finn1.png">
-<img src="//github.com/kdeloach/workman/raw/gh-pages/images/huck-finn1.png" alt="" /></a>
+<a href="//github.com/workman-layout/Workman/raw/gh-pages/images/huck-finn1.png">
+<img src="//github.com/workman-layout/Workman/raw/gh-pages/images/huck-finn1.png" alt="" /></a>
 
 ### Adventures of Tom Sawyer
-<a href="//github.com/kdeloach/workman/raw/gh-pages/images/tomsawyer1.png">
-<img src="//github.com/kdeloach/workman/raw/gh-pages/images/tomsawyer1.png" alt="" /></a>
+<a href="//github.com/workman-layout/Workman/raw/gh-pages/images/tomsawyer1.png">
+<img src="//github.com/workman-layout/Workman/raw/gh-pages/images/tomsawyer1.png" alt="" /></a>
 
 ### War of the Worlds
-<a href="//github.com/kdeloach/workman/raw/gh-pages/images/warofworlds1.png">
-<img src="//github.com/kdeloach/workman/raw/gh-pages/images/warofworlds1.png" alt="" /></a>
+<a href="//github.com/workman-layout/Workman/raw/gh-pages/images/warofworlds1.png">
+<img src="//github.com/workman-layout/Workman/raw/gh-pages/images/warofworlds1.png" alt="" /></a>
 
 ### Moby Dick
-<a href="//github.com/kdeloach/workman/raw/gh-pages/images/moby-dick1.png">
-<img src="//github.com/kdeloach/workman/raw/gh-pages/images/moby-dick1.png" alt="" /></a>
+<a href="//github.com/workman-layout/Workman/raw/gh-pages/images/moby-dick1.png">
+<img src="//github.com/workman-layout/Workman/raw/gh-pages/images/moby-dick1.png" alt="" /></a>
 
 ### The Republic by Plato
-<a href="//github.com/kdeloach/workman/raw/gh-pages/images/therepublic1.png">
-<img src="//github.com/kdeloach/workman/raw/gh-pages/images/therepublic1.png" alt="" /></a>
+<a href="//github.com/workman-layout/Workman/raw/gh-pages/images/therepublic1.png">
+<img src="//github.com/workman-layout/Workman/raw/gh-pages/images/therepublic1.png" alt="" /></a>
 
 ### The Adventures of Sherlock Holmes
-<a href="//github.com/kdeloach/workman/raw/gh-pages/images/sherlock-holmes1.png">
-<img src="//github.com/kdeloach/workman/raw/gh-pages/images/sherlock-holmes1.png" alt="" /></a>
+<a href="//github.com/workman-layout/Workman/raw/gh-pages/images/sherlock-holmes1.png">
+<img src="//github.com/workman-layout/Workman/raw/gh-pages/images/sherlock-holmes1.png" alt="" /></a>
 
 ### All the Books Combined
-<a href="//github.com/kdeloach/workman/raw/gh-pages/images/total.png">
-<img src="//github.com/kdeloach/workman/raw/gh-pages/images/total.png" alt="" /></a>
+<a href="//github.com/workman-layout/Workman/raw/gh-pages/images/total.png">
+<img src="//github.com/workman-layout/Workman/raw/gh-pages/images/total.png" alt="" /></a>
 
 I encourage you to do your own testing and analysis. Note
 that different keyboard testers will give different results as
@@ -471,7 +471,7 @@ Sure go ahead! Feel free to use it if you would like. Below is a
 link to the implementation/installation files courtesy of
 David Norman (deekayen).
 
-[Download the Workman Layout](https://github.com/kdeloach/workman/zipball/master)
+[Download the Workman Layout](https://github.com/workman-layout/Workman/zipball/master)
 
 **IMPORTANT:** The Workman Keyboard Layout is only a partial
 solution. Even the best keyboard layout could not completely
