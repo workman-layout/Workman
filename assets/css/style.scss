@@ -1,0 +1,18 @@
+---
+---
+
+@import "jekyll-theme-slate";
+
+body {
+    font-size: 1.2em;
+}
+
+section img {
+    max-width: 100%;
+}
+
+#main_content,
+#header_wrap > header.inner,
+#footer_wrap > footer.inner {
+    max-width: 780px;
+}
