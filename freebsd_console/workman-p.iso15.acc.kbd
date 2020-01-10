@@ -1,7 +1,6 @@
 # $FreeBSD$
 # Based on FreeBSD's colemak.iso15.acc.kbd
-# http://workman.ws
-# http://www.workmanlayout.com
+# https://workmanlayout.org
 
 #                                                         alt
 # scan                       cntrl          alt    alt   cntrl lock

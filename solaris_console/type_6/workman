@@ -1,6 +1,5 @@
 # Workman Type 6 (USB) key layout for Solaris console.
-# http://workman.ws
-# http://www.workmanlayout.com
+# https://workmanlayout.org
 
 key 53	 base ` shift ~ caps ` ctrl ^^ altg fa_tilde
 key 30	 base 1 shift ! caps 1 ctrl 1 altg ¡

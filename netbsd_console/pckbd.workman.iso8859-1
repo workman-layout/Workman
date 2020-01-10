@@ -1,7 +1,6 @@
 # Workman keymap for NetBSD console.
 # 09-06-2010 OJ Bucao. Public domain.
-# http://workman.ws/
-# http://www.workmanlayout.com
+# https://workmanlayout.org
 # copy to /usr/share/wscons/keymaps/pckbd.workman.iso8859-1
 # modify the mapfile setting in /etc/wscons.conf
 

@@ -1,8 +1,7 @@
 #!/bin/sh
 # Workman layout script for OpenBSD console.
 # 09-06-2010 OJ Bucao. Public domain.
-# http://workman.ws/
-# http://www.workmanlayout.com
+# https://workmanlayout.org
 
 wsconsctl keyboard.encoding=us  \
     keyboard.map+="keycode  41 =          grave    asciitilde       dead_tilde        asciitilde " \
