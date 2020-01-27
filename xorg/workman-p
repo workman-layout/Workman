@@ -27,19 +27,19 @@ xkb_symbols "workman-p" {
     key <AD05> {  [   b,  B   ] };
     key <AD06> {  [   j,  J   ] };
     key <AD07> {  [   f,  F   ] };
-    key <AD08> {  [   u,  U   ] };
+    key <AD08> {  [   u,  U,        ü,      Ü   ] };
     key <AD09> {  [   p,  P   ] };
     key <AD10> {  [   semicolon,  colon   ] };
 
-    key <AC01> {  [   a,  A   ] };
-    key <AC02> {  [   s,  S   ] };
+    key <AC01> {  [   a,  A,        ä,      Ä   ] };
+    key <AC02> {  [   s,  S,        ß,      ẞ   ] };
     key <AC03> {  [   h,  H   ] };
     key <AC04> {  [   t,  T   ] };
     key <AC05> {  [   g,  G   ] };
     key <AC06> {  [   y,  Y   ] };
     key <AC07> {  [   n,  N   ] };
     key <AC08> {  [   e,  E   ] };
-    key <AC09> {  [   o,  O   ] };
+    key <AC09> {  [   o,  O,        ö,      Ö   ] };
     key <AC10> {  [   i,  I   ] };
 
     key <AB01> {  [   z,  Z   ] };
