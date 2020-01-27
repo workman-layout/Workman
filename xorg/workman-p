@@ -12,7 +12,7 @@ xkb_symbols "workman-p" {
     key <AE01> {  [        exclam,  1   ] };
     key <AE02> {  [            at,  2   ] };
     key <AE03> {  [    numbersign,  3   ] };
-    key <AE04> {  [        dollar,  4   ] };
+    key <AE04> {  [        dollar,  4,      EuroSign  ] };
     key <AE05> {  [       percent,  5   ] };
     key <AE06> {  [   asciicircum,  6   ] };
     key <AE07> {  [     ampersand,  7   ] };
@@ -67,7 +67,7 @@ xkb_symbols "workman-p-intl" {
     key <AE01> {  [        exclam,  1   ] };
     key <AE02> {  [            at,  2   ] };
     key <AE03> {  [    numbersign,  3   ] };
-    key <AE04> {  [        dollar,  4   ] };
+    key <AE04> {  [        dollar,  4,      EuroSign   ] };
     key <AE05> {  [       percent,  5   ] };
     key <AE06> {  [   asciicircum,  6   ] };
     key <AE07> {  [     ampersand,  7   ] };
