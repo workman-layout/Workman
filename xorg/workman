@@ -1,5 +1,5 @@
 // Workman Keyboard Layout symbols for xkb on X.Org Server 7.x
-// 09-06-2010 OJ Bucao. http://www.workmanlayout.com
+// 09-06-2010 OJ Bucao. https://workmanlayout.org
 
 partial alphanumeric_keys
 xkb_symbols "workman" {
