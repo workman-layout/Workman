@@ -55,7 +55,7 @@ keycode  61 =        slash      question     questiondown        asciitilde
 keycode  66 =    BackSpace        Escape        BackSpace         BackSpace            
 keycode  94 =        minus    underscore           endash            emdash            
 keycode  65 =        space         space            space      nobreakspace            
-keycode 113 =  Mode_switch   Mode_switch                                               
+keycode 113 =         Left          Left                                               
 clear Lock
 
 !clear Shift
