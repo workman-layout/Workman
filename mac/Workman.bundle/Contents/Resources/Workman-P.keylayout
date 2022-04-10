@@ -869,7 +869,7 @@
             <key code="38" output="&#x000A;"/>
             <key code="39" output="&#x0027;"/>
             <key code="40" output="&#x000B;"/>
-            <key code="41" output=";"/>
+            <key code="41" output="&#x0011;"/>
             <key code="42" output="&#x001C;"/>
             <key code="43" output=","/>
             <key code="44" output="/"/>
